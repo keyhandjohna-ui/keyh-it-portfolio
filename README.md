@@ -3,7 +3,9 @@ Hi, I’m Keyh! I’m an IT student exploring my passion for technology while pu
 
 ### About Me
 Birthdate: December 05, 2005
+
 Phone Number: 09457456951  
+
 Address: 115-C Andres Bonifacio St., Lubang, Occidental Mindoro  
 
 ## Objectives
