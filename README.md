@@ -41,6 +41,7 @@ To gain practical experience and hands-on knowledge to further develop my skills
 
 ## Projects and Activities
 - Film and Poster Editing:
+  
   Edited creative school projects for the subject Filipino 1.  
 - Login Form Project:
   Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
