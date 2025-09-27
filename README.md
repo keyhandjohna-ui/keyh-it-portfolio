@@ -1,7 +1,7 @@
 # Coding My Future | IT Student
 Hi, I’m Keyh! I’m an IT student exploring my passion for technology while pursuing my love for writing and creative projects. I enjoy designing, tinkering, and editing, combining my technical skills and artistic talents. My journey includes roles such as editing films and posters for school projects and learning how technology can enhance storytelling and creativity.
 
-### About Me
+### ABOUT ME
 Birthdate: December 05, 2005
 
 Phone Number: 09457456951  
@@ -22,31 +22,38 @@ To gain practical experience and hands-on knowledge to further develop my skills
   Lubang Integrated School (2010–2017)
 
 ## Achievements
-- 1st Year College: Dean's List - Top 2 (1st Semester) 
-- Senior High School: With High Honors, Best in Work Immersion  
-- Junior High School: With Honors, Conduct Awardee, Perfect Attendance  
-- Primary: With Honors, Conduct Awardee, Perfect Attendance  
+- *1st Year College:* Dean's List - Top 2 (1st Semester) 
+- *Senior High School:* With High Honors, Best in Work Immersion  
+- *Junior High School:* With Honors, Conduct Awardee, Perfect Attendance  
+- *Primary:* With Honors, Conduct Awardee, Perfect Attendance  
 
 ## Seminars and Training
 - Journalism 2017
 - Student Leadership Formation Training 2025
 
 ## Skills and Interests
-- Learning and Exploring: Studying programming concepts like HTML, CSS, and python.
-                          Familiarizing myself with design tools and web development techniques.
-- Designing and Editing: Creating book covers for my own story, editing posters and films for school projects.
-- Writing and Technology Integration: Writing stories and collaborating with co-writers on different platforms.
+- *Learning and Exploring:* Studying programming concepts like HTML, CSS, and python.
+                            Familiarizing myself with design tools and web development techniques.
+- *Designing and Editing:* Creating book covers for my own story, editing posters and films for school projects.
+- *Writing and Technology Integration:* Writing stories and collaborating with co-writers on different platforms.
                                         Exploring ways to use IT knowledge to create personalized writing tools.
-- Growth Mindset: Open to new challenges and always seeking to expand my knowledge in IT and creative fields.
+- *Growth Mindset:* Open to new challenges and always seeking to expand my knowledge in IT and creative fields.
 
 ## Projects and Activities
-- Film and Poster Editing: Edited creative school projects for the subject Filipino 1.  
-- Login Form Project: Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
-- AsteriaPoetica.com: Personal website (in progress) to showcase creativity and skills.  
-- Book Covers and Graphics: Designing captivating book covers for Wattpad stories using tools like IbisPaint.
-- Visual Basic Projects (2nd Year): Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
-- Database Systems Project: Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
-- Digital Poster: Designed a creative digital poster for academic and extracurricular activities.
+- Film and Poster Editing:
+  Edited creative school projects for the subject Filipino 1.  
+- Login Form Project:
+  Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
+- AsteriaPoetica.com:
+  Personal website (in progress) to showcase creativity and skills.  
+- Book Covers and Graphics:
+  Designing captivating book covers for Wattpad stories using tools like IbisPaint.
+- Visual Basic Projects (2nd Year):
+  Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
+- Database Systems Project:
+  Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
+- Digital Poster:
+  Designed a creative digital poster for academic and extracurricular activities.
 
 ## Hobbies
 - Writing stories and poems
