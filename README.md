@@ -40,21 +40,13 @@ To gain practical experience and hands-on knowledge to further develop my skills
 - *Growth Mindset:* Open to new challenges and always seeking to expand my knowledge in IT and creative fields.
 
 ## Projects and Activities
-- Film and Poster Editing:
-  
-  Edited creative school projects for the subject Filipino 1.  
-- Login Form Project:
-  Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
-- AsteriaPoetica.com:
-  Personal website (in progress) to showcase creativity and skills.  
-- Book Covers and Graphics:
-  Designing captivating book covers for Wattpad stories using tools like IbisPaint.
-- Visual Basic Projects (2nd Year):
-  Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
-- Database Systems Project:
-  Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
-- Digital Poster:
-  Designed a creative digital poster for academic and extracurricular activities.
+- *Film and Poster Editing:* Edited creative school projects for the subject Filipino 1.  
+- *Login Form Project:* Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
+- *AsteriaPoetica.com:* Personal website (in progress) to showcase creativity and skills.  
+- *Book Covers and Graphics:* Designing captivating book covers for Wattpad stories using tools like IbisPaint.
+- *Visual Basic Projects (2nd Year):* Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
+- *Database Systems Project:* Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
+- *Digital Poster:* Designed a creative digital poster for academic and extracurricular activities.
 
 ## Hobbies
 - Writing stories and poems
