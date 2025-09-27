@@ -1,7 +1,7 @@
 # Coding My Future | IT Student
 Hi, I’m Keyh! I’m an IT student exploring my passion for technology while pursuing my love for writing and creative projects. I enjoy designing, tinkering, and editing, combining my technical skills and artistic talents. My journey includes roles such as editing films and posters for school projects and learning how technology can enhance storytelling and creativity.
 
-### ABOUT ME
+### About Me
 Birthdate: December 05, 2005
 
 Phone Number: 09457456951  
