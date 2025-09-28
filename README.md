@@ -46,9 +46,10 @@ To gain practical experience and hands-on knowledge to further develop my skills
 - *Book Covers and Graphics:* Designing captivating book covers for Wattpad stories using tools like IbisPaint.
 - *Visual Basic Projects (2nd Year):* Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
   ![Calculator](/assets/img/552769764_2547863988919597_6931599091574967714_n.jpg)
-  ![LMS]
+  ![LMS](/assets/img/553249757_1079612200688727_4561866933307337521_n.jpg)
+  ![COR](
 - *Database Systems Project:* Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
-  ![Table](assets/img/552408598_766345379707042_8262869028969432871_n.jpg)
+  ![Table](/assets/img/552408598_766345379707042_8262869028969432871_n.jpg)
 - *Digital Poster:* Designed a creative digital poster for academic and extracurricular activities.
   ![Digital Poster](/assets/img/553838420_722251770982180_2358471065898437822_n.jpg)
 
