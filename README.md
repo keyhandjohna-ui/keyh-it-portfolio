@@ -39,7 +39,7 @@ To gain practical experience and hands-on knowledge to further develop my skills
                                         Exploring ways to use IT knowledge to create personalized writing tools.
 - *Growth Mindset:* Open to new challenges and always seeking to expand my knowledge in IT and creative fields.
 
-## Projects and Activities
+# Projects and Activities
 - *Film and Poster Editing:* Edited creative school projects for the subject Filipino 1.  
 - *Login Form Project:* Created a beginner-level functional login form using HTML, CSS, and JavaScript.  
 - *AsteriaPoetica.com:* Personal website (in progress) to showcase creativity and skills.  
