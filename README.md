@@ -47,7 +47,7 @@ To gain practical experience and hands-on knowledge to further develop my skills
 - *Visual Basic Projects (2nd Year):* Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
   ![Calculator](/assets/img/552769764_2547863988919597_6931599091574967714_n.jpg)
   ![LMS](/assets/img/553249757_1079612200688727_4561866933307337521_n.jpg)
-  ![COR](
+  ![COR](/assets/img/553081694_787304200676458_8604268058846730380_n.jpg)
 - *Database Systems Project:* Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
   ![Table](/assets/img/552408598_766345379707042_8262869028969432871_n.jpg)
 - *Digital Poster:* Designed a creative digital poster for academic and extracurricular activities.
