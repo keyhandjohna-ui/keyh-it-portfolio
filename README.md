@@ -45,6 +45,7 @@ To gain practical experience and hands-on knowledge to further develop my skills
 - *AsteriaPoetica.com:* Personal website (in progress) to showcase creativity and skills.  
 - *Book Covers and Graphics:* Designing captivating book covers for Wattpad stories using tools like IbisPaint.
 - *Visual Basic Projects (2nd Year):* Designed a calculator, a library management system, a certificate of registration, and a digital menu using Visual Basic 2013.
+  ![Calculator]
 - *Database Systems Project:* Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
   ![Table](assets/img/552408598_766345379707042_8262869028969432871_n.jpg)
 - *Digital Poster:* Designed a creative digital poster for academic and extracurricular activities.
