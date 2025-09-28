@@ -50,6 +50,7 @@ To gain practical experience and hands-on knowledge to further develop my skills
   ![COR](/assets/img/553081694_787304200676458_8604268058846730380_n.jpg)
 - *Database Systems Project:* Developed an Entity Relationship Diagram (ERD) as part of Fundamentals of Database Systems.
   ![Table](/assets/img/552408598_766345379707042_8262869028969432871_n.jpg)
+  ![ERD](/assets/img/552738773_1156613942585980_4117172046823072009_n.jpg)
 - *Digital Poster:* Designed a creative digital poster for academic and extracurricular activities.
   ![Digital Poster](/assets/img/553838420_722251770982180_2358471065898437822_n.jpg)
 
