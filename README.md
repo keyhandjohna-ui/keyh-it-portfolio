@@ -61,8 +61,8 @@ To gain practical experience and hands-on knowledge to further develop my skills
 - Taking photos of beautiful scenery
 - Editing pictures and videos
 - Watching K-dramas
-  ![Art11](/assets/img/553646313_1331365538607044_944745049398104459_n.jpg)
-  ![Art2](
+  ![Art1](/assets/img/553646313_1331365538607044_944745049398104459_n.jpg)
+  ![Art2](/assets/img/553224475_1103712704821640_514826868683896669_n.jpg)
 
 ## My Aspirations
 As an IT student, writer, and editor, I aim to blend my technical and artistic skills to create impactful work. Whether it’s building a collaborative platform for writers, designing visually compelling media, or editing creative projects, I’m excited to continue exploring where technology meets creativity.
