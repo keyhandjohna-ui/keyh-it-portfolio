@@ -1,1 +1,11 @@
+img[alt="Logo"] {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #333;
+}
 
+body {
+  background-color: #fff176;
+}
